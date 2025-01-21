@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Atnafu Ayalew
-- 👀 I’m interested in Coding, data anlytics, dtabase, visualization 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding, data anlytics, database, visualization 
+- 🌱 I’m currently learning python, SQL, noSQL etc.
+- 💞️ I’m looking to collaborate on data analysis 
+- 📫 How to reach me:
+-      atnafub.ayalew@gmail.com
+-      [Linkedin Proofile](https://www.linkedin.com/in/atnafu-brhane/)
+  
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: ...
 
 <!---
 atnafb/atnafb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
