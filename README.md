@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning python, SQL, noSQL etc.
 - 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me:
--      atnafub.ayalew@gmail.com
--      [Linkedin Proofile](https://www.linkedin.com/in/atnafu-brhane/)
-  
+  - atnafub.ayalew@gmail.com
+  - [LinkedIn Profile](https://www.linkedin.com/in/atnafu-brhane/)
 - 😄 Pronouns: He/him/his
 
 <!---
