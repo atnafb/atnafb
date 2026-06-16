@@ -40,7 +40,7 @@ My Role:** AWS Cloud Architecture & Database Engineer
 ![CareSync ERD](images/ERD.jpg)
 
 ## Database Validation 
-![Data](images/db-app-interaction .png)
+![Data](images/db-app-interaction.png)
 
 ## CareSync Application Dashboard 
 ![App Dashboard](images/app-dashboard.jpg)
