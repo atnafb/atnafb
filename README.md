@@ -5,36 +5,38 @@
 
 ## Featured Project: CareSync 
 ### Cloud Based Clinical Documentation System 
-CareSync is a cloud-native healthcare application taht enables caregivers to create and manage patient care notes through a secure web platform. 
+CareSync is a cloud-native healthcare application that enables caregivers to create and manage patient care notes through a secure web platform. 
 
 My Role:** AWS Cloud Architecture & Database Engineer
 
 ### Key Contributions 
 
-- Designed the AWS VPC Architecture 
-- Created public and private subnets accross multiple Availablity Zones
-- Configured security groups and network rules 
-- Deployed Amazon RDS MySQK in private subnets 
-- Designed the database schema and ERD
-- Implemented secure connectivity between Lambda and RDS
-- Documented AWS architecture and deployment procedures 
+- Designed a secure AWS VPC architecture with public and private subnets across multiple Availability Zones
+- Deployed Amazon RDS MySQL in private subnets with controlled access through security groups
+- Designed and implemented the CareSync relational database schema and ERD
+- Configured secure Lambda-to-RDS communication for serverless data processing
+- Authored CloudFormation templates for infrastructure deployment and documentation
+- Supported AWS architecture reviews, testing, and deployment validation
 
 ### Technologies 
 
 - AWS VPC
 - Amazone RDS (MySQL)
 - AWS Lambda 
-- Amazone API Gateway 
-- Amazone Cognito 
-- Github Actions
+- Amazon API Gateway 
+- Amazon Cognito 
+- GitHub Actions
 - MySQL 
 - TypeScript 
 
 ### Repositories 
 [CareSync](https://github.com/vbanks-softcloud/CareSync)
 
-## CareSync Architecture 
+## CareSync AWS Architecture 
 ![Network Architecture of the CareSync application](images/vpc-subnets-routable.png)
+
+## CareSync Application Dashboard 
+![App Dashboard](images/app-dashboard.jpg)
 
 ## Database Design 
 ![CareSync ERD](images/ERD.jpg)
@@ -42,6 +44,5 @@ My Role:** AWS Cloud Architecture & Database Engineer
 ## Database Validation 
 ![Data](images/db-app-interaction.png)
 
-## CareSync Application Dashboard 
-![App Dashboard](images/app-dashboard.jpg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atnafb&show_icons=true)
 
