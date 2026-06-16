@@ -34,14 +34,14 @@ My Role:** AWS Cloud Architecture & Database Engineer
 [CareSync](https://github.com/vbanks-softcloud/CareSync)
 
 ## CareSync Architecture 
-![Network Architecture of the CareSync application](vpc-subnets-routable.png)
+![Network Architecture of the CareSync application](images/vpc-subnets-routable.png)
 
 ## Database Design 
-![CareSync ERD](ERD.jpg)
+![CareSync ERD](images/ERD.jpg)
 
 ## Database Validation 
-![Data](db-app-interaction .png)
+![Data](images/db-app-interaction .png)
 
 ## CareSync Application Dashboard 
-![App Dashboard](app-dashboard.jpg)
+![App Dashboard](images/app-dashboard.jpg)
 
